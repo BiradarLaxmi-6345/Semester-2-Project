@@ -6,3 +6,5 @@ It was done by me and my friend kruthi
 This is a game based on a game Treasure Hunt
 
 And the map is based on our univerisity which is gitam
+
+There are questions given and we need to find the answer to it
