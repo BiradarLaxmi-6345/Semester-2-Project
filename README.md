@@ -16,3 +16,5 @@ If we solve the question we are moved from one place to another according to the
 If we dont solve it directly goes to that position or ends the game
 
 At the end it prints that you won the game
+
+So this was the project
