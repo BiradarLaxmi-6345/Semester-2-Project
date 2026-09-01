@@ -3,7 +3,7 @@
 
 A fun and interactive **campus-themed treasure hunt game** built using **Python Turtle Graphics**.
 
-Players solve a series of riddles based on locations around the GITAM campus. Each correct answer reveals the next location and moves the player across the map. The game includes a **30-second timer for each attempt, hints, file-based leaderboard, and a final treasure reveal**.
+Players solve a series of riddles based on locations around the GITAM campus. Each correct answer reveals the next location and moves the player across the map. The game includes **30-second timer for each attempt, hints, file-based leaderboard, and a final treasure reveal**.
 
 
 ## 🎮 Features
