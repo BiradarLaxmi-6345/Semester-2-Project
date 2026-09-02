@@ -17,7 +17,7 @@ Players solve a series of riddles based on locations around the GITAM campus. Ea
 * 📍 Locations are revealed after solving riddles
 * 🏆 **Treasure reveal animation**
 * 📊 **Leaderboard system**
-* 💾 Leaderboard data stored using a text file
+* 💾 Leaderboard data stored using text file
 * 👤 Player name input
 * 🎨 Interactive graphical interface using Turtle
 
