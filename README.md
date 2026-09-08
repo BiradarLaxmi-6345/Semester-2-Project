@@ -106,7 +106,7 @@ Enter your name and press **Enter**.
 7. You get a maximum of **3 attempts** for each riddle.
 8. Solve the riddles to move around the campus map.
 9. Reach **Veeksha Hall** to discover the treasure! 🏆
-10. Your final time is recorded on the leaderboard.
+10. Your final time is recorded on leaderboard.
 
 ---
 
