@@ -99,7 +99,7 @@ Enter your name and press **Enter**.
 
 1. Enter your name.
 2. Read the first clue displayed on the screen.
-3. Type your answer using the keyboard.
+3. Type your answer using keyboard.
 4. Press **Enter** to submit.
 5. You have **30 seconds** to answer each attempt.
 6. If your answer is incorrect, a hint will be displayed.
