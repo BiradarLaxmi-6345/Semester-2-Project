@@ -103,7 +103,7 @@ Enter your name and press **Enter**.
 4. Press **Enter** to submit.
 5. You have **30 seconds** to answer each attempt.
 6. If your answer is incorrect, a hint will be displayed.
-7. You get a maximum of **3 attempts** for each riddle.
+7. You get maximum of **3 attempts** for each riddle.
 8. Solve the riddles to move around the campus map.
 9. Reach **Veeksha Hall** to discover the treasure! 🏆
 10. Your final time is recorded on leaderboard.
