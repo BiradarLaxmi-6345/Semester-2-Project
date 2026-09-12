@@ -138,7 +138,7 @@ Each riddle gives the player **30 seconds per attempt**.
 
 The timer resets whenever a new attempt begins.
 
-If the player fails all three attempts, the correct answer is displayed before the game continues to the next location.
+If player fails all three attempts, the correct answer is displayed before the game continues to the next location.
 
 ---
 
