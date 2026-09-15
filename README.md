@@ -114,7 +114,7 @@ Enter your name and press **Enter**.
 
 ### Clue
 
-> This place is usually the quietest area on campus. People come here when they need information.
+> This place is usually quietest area on campus. People come here when they need information.
 
 ### Hint 1
 
