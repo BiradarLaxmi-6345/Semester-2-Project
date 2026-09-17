@@ -98,7 +98,7 @@ Enter your name and press **Enter**.
 ## 🎯 How to Play
 
 1. Enter your name.
-2. Read the first clue displayed on the screen.
+2. Read the first clue displayed on screen.
 3. Type your answer using keyboard.
 4. Press **Enter** to submit.
 5. You have **30 seconds** to answer each attempt.
