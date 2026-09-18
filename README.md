@@ -59,7 +59,7 @@ GITAM-Treasure-Hunt/
 └── README.md
 ```
 
-> `leaderboard.txt` is automatically created when the game saves the first score.
+> `leaderboard.txt` is automatically created when game saves the first score.
 
 ---
 
